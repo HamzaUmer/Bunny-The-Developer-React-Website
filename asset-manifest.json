@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Bunny-The-Developer-React-Website/static/css/main.dd161694.chunk.css",
+    "main.js": "/Bunny-The-Developer-React-Website/static/js/main.24478f7f.chunk.js",
+    "main.js.map": "/Bunny-The-Developer-React-Website/static/js/main.24478f7f.chunk.js.map",
+    "runtime-main.js": "/Bunny-The-Developer-React-Website/static/js/runtime-main.d688dd67.js",
+    "runtime-main.js.map": "/Bunny-The-Developer-React-Website/static/js/runtime-main.d688dd67.js.map",
+    "static/css/2.b8b94fc2.chunk.css": "/Bunny-The-Developer-React-Website/static/css/2.b8b94fc2.chunk.css",
+    "static/js/2.95847ff2.chunk.js": "/Bunny-The-Developer-React-Website/static/js/2.95847ff2.chunk.js",
+    "static/js/2.95847ff2.chunk.js.map": "/Bunny-The-Developer-React-Website/static/js/2.95847ff2.chunk.js.map",
+    "index.html": "/Bunny-The-Developer-React-Website/index.html",
+    "static/css/2.b8b94fc2.chunk.css.map": "/Bunny-The-Developer-React-Website/static/css/2.b8b94fc2.chunk.css.map",
+    "static/css/main.dd161694.chunk.css.map": "/Bunny-The-Developer-React-Website/static/css/main.dd161694.chunk.css.map",
+    "static/js/2.95847ff2.chunk.js.LICENSE.txt": "/Bunny-The-Developer-React-Website/static/js/2.95847ff2.chunk.js.LICENSE.txt",
+    "static/media/Android-Development.7a7e2e1a.jpg": "/Bunny-The-Developer-React-Website/static/media/Android-Development.7a7e2e1a.jpg",
+    "static/media/App-Development.92317e1a.jpg": "/Bunny-The-Developer-React-Website/static/media/App-Development.92317e1a.jpg",
+    "static/media/Software-Development.e9d9075e.jpg": "/Bunny-The-Developer-React-Website/static/media/Software-Development.e9d9075e.jpg",
+    "static/media/Web-Development.98bfee96.jpg": "/Bunny-The-Developer-React-Website/static/media/Web-Development.98bfee96.jpg",
+    "static/media/bunny-About.5176f0f3.png": "/Bunny-The-Developer-React-Website/static/media/bunny-About.5176f0f3.png",
+    "static/media/bunny-homepage.e9402023.png": "/Bunny-The-Developer-React-Website/static/media/bunny-homepage.e9402023.png",
+    "static/media/bunny.e0520486.png": "/Bunny-The-Developer-React-Website/static/media/bunny.e0520486.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d688dd67.js",
+    "static/css/2.b8b94fc2.chunk.css",
+    "static/js/2.95847ff2.chunk.js",
+    "static/css/main.dd161694.chunk.css",
+    "static/js/main.24478f7f.chunk.js"
+  ]
+}
