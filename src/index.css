@@ -158,6 +158,10 @@ footer p {
 
 /*----- Responsive -----*/
 @media (max-width: 991px) {
+  .navbar-brand {
+    font-size: 0.8em !important;
+    color: gray !important;
+  }
   #header {
     height: 80vh;
     text-align: center;
@@ -173,6 +177,10 @@ footer p {
 }
 
 @media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 0.7em !important;
+    color: gray !important;
+  }
   #header {
     margin-top: 20px;
   }
